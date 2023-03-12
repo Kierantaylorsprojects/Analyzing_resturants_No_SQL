@@ -1,6 +1,6 @@
 # Analyzing_resturants_No_SQL
 
-Part 1: Database and Jupyter Notebook Set Up
+## Part 1: Database and Jupyter Notebook Set Up
 
 Imported data and libraries: PyMongo and Pretty Print.
 
@@ -13,7 +13,7 @@ Listed the collection(s) in the database to ensure that establishments were ther
 Found and displayed one document in the establishments collection using find_one and display with pprint.
 Assigned the establishments collection to a variable to prepare the collection for use.
 
-Part 2: Updated the Database
+## Part 2: Updated the Database
 
 Modified the database.
 
@@ -58,7 +58,7 @@ Removed any establishments within the Dover Local Authority from the database, a
 
 Used update_many to convert latitude and longitude to decimal numbers.
 
-Part 3: Exploratory Analysis
+## Part 3: Exploratory Analysis
 
 Used count_documents to display the number of documents contained in the result.
 
